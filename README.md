@@ -1,10 +1,10 @@
-# iSpend - expense track app
+# iBudgets - Budgets Tracker
 
-iSpend is a simple expense tracking application
+iBudgets is a simple expense tracking application
 
 # Contact Me
 
-If you have any questions or suggestions about iSpend, do not hesitate to contact me.
+If you have any questions or suggestions about iBudgets, do not hesitate to contact me.
 
 Email: fxiaoding@gmail.com
 
