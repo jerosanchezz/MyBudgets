@@ -1,6 +1,6 @@
-# iBudgets - Budgets Tracker
+# MyBudgets - Budgets Tracker
 
-iBudgets is a simple expense tracking application
+MyBudgets is a simple budgets tracking application.
 
 # Contact Me
 
