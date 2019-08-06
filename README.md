@@ -1,10 +1,10 @@
-# MyBudgets - Budgets Tracker
+# MyBudgets Tracker
 
 MyBudgets is a simple budgets tracking application.
 
 # Contact Me
 
-If you have any questions or suggestions about iBudgets, do not hesitate to contact me.
+If you have any questions or suggestions about my app, do not hesitate to contact me.
 
 Email: fxiaoding@gmail.com
 
